@@ -369,10 +369,10 @@ section .title::after{
     width: 60%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 90%;
 }
 .skills-content .right .php::before{
-    width: 50%;
+    width: 70%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
@@ -380,7 +380,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "Daily Apps";
 }
 .teams .carousel .card{
     background: #9f9faa;
