@@ -375,8 +375,11 @@ section .title::after{
     width: 70%;
 }
 .skills-content .right .mysql::before{
-    width: 70%;
+    width: 80%;
 }
+/* .skills-content .right .canva::before{
+    width: 0%;
+} */
 
 /* teams section styling */
 .teams .title::after{
